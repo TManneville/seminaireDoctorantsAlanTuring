@@ -1,0 +1,33 @@
+<!DOCTYPE html> <!--pour déclarer une page en html -->
+<html> <!--tout ce qu'il y a dans la page-->
+	<head> <!-- en-tête de la page-->
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="styleSeminaireDoctorantsAlanTuring.css"/>
+	<title> Turing PhD students' seminary </title>
+	</head>
+	<body> <!--corps de la page-->
+	<nav><a href="seminaireDoctorantsAlanTuringFrancais.html">version en français</a></nav>
+	  <header><a href="http://www.lix.polytechnique.fr" target="_blank"><img src="logoLIX.png" class="logoLIX" alt="logo LIX" align="left"/></a> Seminary of PhD students of Alan Turing building <a href="http://www.inria.fr/centre/saclay" target="_blank"><img src="logoINRIASaclay.png" class="logoINRIASacaly" alt="logo INRIA Saclay" align="right"/></a></header>
+	 <p>
+	 This seminary gathers PhD students of Alan Turing building: those of the LIX and of The INRIA Saclay and is open to everybody.
+	 </p>
+	 <p>
+	 There is a session every two weeks. The dates and schedules are decided during free seminaray weeks <span class="latin">via</span> a doodle fulfilled by PhD students.
+	 </p>
+	 
+	 <h3><a href="#">Doodle for the next session</a></h3>
+	 <h1>Calendar of the sessions</h1> 
+	 <ul>
+	    <li>4<sup>th</sup> session : date Clément Dervieux, <em>planar maps</em></li>
+ 		<li>3<sup>th</sup> session : date Thomas Sibut-Pinote, <em>bitcoins</em></li>
+		<li>2<sup>th</sup> session : 27/01/2015 Amaury Pouly, <em>complexity of real functions</em>
+			<blockquote>
+			Abstract :
+			</blockquote></li>
+		<li>1<sup>st</sup> session : 14/01/2015 Sonia Marin, <em>Demonstration theory and modal logic</em></li>
+	 </ul>
+	 <footer>
+	 contacts : <a href="mailto:roberto.blanco_AT_inria.fr">Roberto Blanco (INRIA, Parsifal)</a> <a href="mailto:manneville_AT_lix.polytechnique.fr">Thibault Manneville (LIX, combi)</a> <a href="mailto:sonia.marin_AT_inria.fr">Sonia Marin (INRIA, Parsifal)</a> <a href="mailto:thomas.sibut-pinote_AT_inria.fr">Thomas Sibut-Pinote (INRIA, Specfun)</a>
+	 </footer>
+	<body>
+</html>

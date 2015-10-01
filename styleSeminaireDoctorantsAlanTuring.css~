@@ -1,0 +1,49 @@
+/*
+page de style CSS pour le séminaire des doctorants du bâtiment Alan Turing
+*/
+
+html, body{height: 100%;
+margin: 0; padding: 0;
+}
+
+body{min-height : 100%;
+ padding-top: 5%; padding-left: 8%; padding-right: 8%;
+ font-family: Georgia;
+ background-image: url('fondEcran1.jpg');}
+
+nav{position: absolute; top: 2%; right: 5%;}
+
+h1 /*gros titres centrés*/
+{ text-align: center;}
+p /*paragraphes justifiés*/
+{padding-left: 5%;
+ text-align: justify;
+ width: 70%;}
+
+a{color: maroon;}
+
+a:visited
+{color:marron;}
+
+header{ display: inline-block;
+ text-align: center;
+ width: 100%;
+ font-size: 250%;
+ text-decoration: underline;}
+
+header+p
+{padding-top: 4%; clear:both;}
+
+ul{padding-bottom: 5%;}
+
+footer{text-align: center;
+ padding-top: 5%;
+ padding-left: 5%;
+ position: absolute; bottom : 1%;
+ font-size: 80%;}
+
+.logoLIX{ float: left;}
+
+.logoINRIASaclay{ float: right;}
+
+.latin{ font-style: italic;}
